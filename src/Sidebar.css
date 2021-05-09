@@ -47,6 +47,7 @@
 
 .sidebar__searchContainer > input {
   border: none;
+  outline-style: solid;
   outline-width: 0;
   margin-left: 10px;
 }
