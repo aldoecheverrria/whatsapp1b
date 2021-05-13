@@ -1,0 +1,5 @@
+.sidebar {
+  display: flex;
+  flex: column;
+  flex: 0.35;
+}
