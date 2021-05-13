@@ -1,11 +1,9 @@
-import './Chat.css'
-
 function Chat() {
     return (
-        <div className="chat">
-            <h1>Soy el chat </h1>
+        <div>
+            <h1>Yo soy el Chat</h1>
         </div>
     )
 }
 
-export default Chat;
+export default Chat
